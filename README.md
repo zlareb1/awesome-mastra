@@ -156,6 +156,7 @@ Official templates from the Mastra team, each a standalone repository you can cl
 - [Google Cloud Spanner](https://mastra.ai/integrations/databases/spanner) - Globally distributed relational store.
 - [DynamoDB](https://mastra.ai/integrations/databases/dynamodb) - Key-value adapter for AWS-native stacks.
 - [ClickHouse](https://mastra.ai/integrations/databases/clickhouse) - Columnar store, a good fit for observability data.
+- [Loom](https://github.com/ClickHouse/loom/blob/v1.3.0-rc.1/sdk/typescript/README.md#mastra) - Mastra memory storage and agent tools for a self-hosted Loom server.
 - [DuckDB](https://mastra.ai/integrations/databases/duckdb) - Embedded analytical store.
 - [Redis](https://mastra.ai/integrations/databases/redis) - Cache and stream backend.
 - [Valkey](https://mastra.ai/integrations/databases/valkey) - Open-source Redis fork adapter.
